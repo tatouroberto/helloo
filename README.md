@@ -163,7 +163,7 @@ If you like this project you can download it from https://github.com/tatourobert
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENCE) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
